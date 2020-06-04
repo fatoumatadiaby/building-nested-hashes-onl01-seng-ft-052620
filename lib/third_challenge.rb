@@ -15,9 +15,6 @@ def third_challenge
   },
     :hero_friends => []
   },
-
-# ^ right here after this curly bracket
-# as of now it just goes straight to :capulet and gets confused
   
    :capulet => {
     :patriarch => {
