@@ -14,7 +14,7 @@ def third_challenge
       :age => "15"
   },
     :hero_friends => []
-  }
+  },
 
 # ^ right here after this curly bracket
 # as of now it just goes straight to :capulet and gets confused
@@ -35,6 +35,6 @@ def third_challenge
       :status => "alive"
     },  
       :heroine_friends => []
-   },
+   }
    
 end
