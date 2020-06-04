@@ -24,7 +24,7 @@ def third_challenge
         :name => "Mercutio",
         :age => "18",
         :attitude => "hot-headed"
-      }
+      },
     ]
   },
   :capulet => {
@@ -51,7 +51,7 @@ def third_challenge
         :name => "Nurse",
         :age => "44",
         :attitude => "worried"
-      }
+      },
     ]
   }
 }
